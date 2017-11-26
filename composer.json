@@ -1,0 +1,6 @@
+{
+	"name": "vitaliy070516/hello-world",
+	"require": {
+		"monolog/monolog": "1.0.*"
+	}
+}
